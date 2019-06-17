@@ -1,0 +1,14 @@
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\bin\Debug\netcoreapp2.2\SampleWepApi.deps.json
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\bin\Debug\netcoreapp2.2\SampleWepApi.runtimeconfig.json
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\bin\Debug\netcoreapp2.2\SampleWepApi.runtimeconfig.dev.json
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\bin\Debug\netcoreapp2.2\SampleWepApi.dll
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\bin\Debug\netcoreapp2.2\SampleWepApi.pdb
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\obj\Debug\netcoreapp2.2\SampleWepApi.csprojAssemblyReference.cache
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\obj\Debug\netcoreapp2.2\SampleWepApi.csproj.CoreCompileInputs.cache
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\obj\Debug\netcoreapp2.2\SampleWepApi.RazorAssemblyInfo.cache
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\obj\Debug\netcoreapp2.2\SampleWepApi.RazorAssemblyInfo.cs
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\obj\Debug\netcoreapp2.2\SampleWepApi.AssemblyInfoInputs.cache
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\obj\Debug\netcoreapp2.2\SampleWepApi.AssemblyInfo.cs
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\obj\Debug\netcoreapp2.2\SampleWepApi.RazorTargetAssemblyInfo.cache
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\obj\Debug\netcoreapp2.2\SampleWepApi.dll
+D:\Study\DotnetCoreCICD\SampleWepApi\SampleWepApi\obj\Debug\netcoreapp2.2\SampleWepApi.pdb
